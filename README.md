@@ -20,11 +20,13 @@ Description: Brief description or synopsis.
 # Dashboard Features
 
 **Overview**
+
 Total Titles: A summary of the total number of titles available on Amazon Prime Video.
 Content Distribution: Breakdown of content by genre, country, and language.
 Release Trends: Visualization of content releases over the years.
 
 **Genre Insights**
+
 Genre Popularity: 
 Identification of the most prevalent genres.
 Yearly Genre Trends: Analysis of how the popularity of different genres has evolved over time.
@@ -42,13 +44,16 @@ Content Language Distribution: Breakdown of content based on language.
 # Getting Started
 
 **Prerequisites**
+
 Power BI Desktop: Ensure you have the latest version installed.
 
 **Installation Steps**
+
 Dataset Import: Load the Amazon Prime Video dataset into Power BI Desktop.
 Open Dashboard: Open the provided .pbix file to access the pre-configured dashboard.
 
 **Using the Dashboard**
+
 Navigation: Use the tabs at the bottom to switch between different sections.
 Filtering: Apply filters to customize the visualizations based on your interests (e.g., by genre, country, year).
 Tooltips: Hover over visual elements for detailed information.
